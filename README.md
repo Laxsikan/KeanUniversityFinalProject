@@ -90,3 +90,5 @@ players while engaging users in a high-score competition.
  -------------------
  Potential updates include more detailed player statistics, better session management, and enhanced UI/UX 
 designs.
+[CapstoneFINAL.pdf](https://github.com/user-attachments/files/15793534/CapstoneFINAL.pdf)
+
